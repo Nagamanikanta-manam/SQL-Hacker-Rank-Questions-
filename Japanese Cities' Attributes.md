@@ -11,4 +11,5 @@ The CITY table is described as follows:
 | POPULATION | NUMBER |
 ---
 link:https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+<h1>answer:</h1>
 <code>select * from city where countrycode='JPN';</code>
