@@ -11,5 +11,5 @@ The CITY table is described as follows:
 -------------
 link:https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
 ---------
-answer:
-select * from city;
+**answer:**
+**select * from city;**
