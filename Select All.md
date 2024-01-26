@@ -12,4 +12,4 @@ The CITY table is described as follows:
 link:https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
 ---------
 <h2>answer:</h2>
-<code>select * from city;</code>
+<h2><code>select * from city;</code></h2>
