@@ -8,6 +8,7 @@ The CITY table is described as follows:
 | COUNTRY CODE  | VARCHAR2(3)  |
 | DISTRICT |  VARCHAR2(20) |
 | POPULATION | NUMBER |
+-------------
 link:https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
 answer:
 select * from city;
