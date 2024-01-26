@@ -10,5 +10,6 @@ The CITY table is described as follows:
 | POPULATION | NUMBER |
 -------------
 link:https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+---------
 answer:
 select * from city;
